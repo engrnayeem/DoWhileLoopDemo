@@ -23,7 +23,7 @@ public class DoWhileLoopDemo {
         
         }
         
-        while(x<=10);
+        while(x>=10);
     
     
     }
